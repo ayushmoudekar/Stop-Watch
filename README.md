@@ -13,4 +13,4 @@ Technologies Used: HTML , CSS & JAVASCRIPT
 
 Output : 
 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/Stop-Watch/blob/313eda97cf41ac9dbed2af587fb70d6fc0d97e63/Output.png)
